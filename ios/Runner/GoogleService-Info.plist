@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>520948841027-egr6bbuhfne2ee9tpok3kga4vpocglk3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.520948841027-egr6bbuhfne2ee9tpok3kga4vpocglk3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP2TFaXisHHWRcvlb9-NXb_ia7LQ2gV1U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>520948841027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quizApp</string>
+	<key>PROJECT_ID</key>
+	<string>quizi-appli</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quizi-appli.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:520948841027:ios:32a7384f8429b9f52df2f6</string>
+	<key>DATABASE_URL</key>
+	<string>https://quizi-appli-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

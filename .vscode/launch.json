@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "quiz_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "quiz_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "quiz_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+			"name": "iPhone1",
+			"request": "launch",
+			"type": "dart",
+			"deviceId": "BB8E326C-5C83-485E-A7AF-7EEB23ACB003"
+		},
+		{
+			"name": "iPhone2",
+			"request": "launch",
+			"type": "dart",
+			"deviceId": "411CE434-21FF-4899-8BD8-6851A4458100"
+		},
+	],
+	"compounds": [
+		{
+			"name": "All Devices",
+			"configurations": ["iPhone1", "iPhone2"],
+		}
+	]
+}
